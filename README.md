@@ -110,7 +110,7 @@ For detailed documentation about the project architecture, database schema, and 
 
 
 ## 🌟 Team
-- Shouq Alqureshi [Project manager]
+- Shouq Alqureshi 
 - Riyam Alsuhaibani
 - Miriam Almogren
 - Amal Alharbi
