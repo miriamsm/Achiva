@@ -1,7 +1,12 @@
 # Achiva 🚀
 
 Achiva is a gamified social productivity app that revolutionizes personal and professional development by combining goal tracking with social networking features. The platform helps users maintain consistency in pursuing their goals while connecting with like-minded individuals for support and motivation.
-![Achiva Banner](https://raw.githubusercontent.com/ShouqAlqureshi/achiva/main/Achiva%20banner.png)
+
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/ShouqAlqureshi/achiva/main/Achiva%20banner.png" alt="Achiva Banner" width="40%"/>
+</div>
+
+
 
 ## ✨ Features
 
@@ -101,6 +106,7 @@ Achiva is a gamified social productivity app that revolutionizes personal and pr
 For detailed documentation about the project architecture, database schema, and API integrations, please refer to the following:
 
 - [System Documentation](https://github.com/ShouqAlqureshi/achiva/blob/main/Achiva%20Documentation%20.pdf)
+- [System Maintenance phase Documentation](https://github.com/ShouqAlqureshi/achiva/tree/main/Maintenance)
 
 
 ## 📝 Credits
@@ -113,7 +119,6 @@ For detailed documentation about the project architecture, database schema, and 
 - Shouq Alqureshi 
 - Riyam Alsuhaibani
 - Miriam Almogren
-- Amal Alharbi
 - Batool Alsugaih
 - Waad Almutiri
 
